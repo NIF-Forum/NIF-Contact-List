@@ -1,0 +1,4 @@
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+  background-color: #00203B; /* Change this to your desired color */
+  color: #00203B; /* Change this if you want to modify the text color */
+}
